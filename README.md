@@ -1,2 +1,2 @@
-# snake_class
+# snake
 Created with CodeSandbox
